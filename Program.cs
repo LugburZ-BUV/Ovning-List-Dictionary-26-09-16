@@ -42,8 +42,6 @@ namespace Ovning_List_Dictionary_26_09_16
             // We use GoAgain to check if the user want to run the program again or quit 
             Country.StartDict(dictCountry);
 
-            //- [ ]  Vi ska skapa Dictionary av samma klassen Country , med key och value.
-            // - []  Vi ska skriva ut samma meddelande till användare för att mata in Country kod och gå genom samma process.
         }
     }
 }
