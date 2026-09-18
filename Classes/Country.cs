@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ovning_List_Dictionary_26_09_16
+namespace Ovning_List_Dictionary_26_09_16.Classes
 {
     public class Country
     {
