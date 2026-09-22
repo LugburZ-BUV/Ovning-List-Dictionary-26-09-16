@@ -6,17 +6,17 @@ namespace Ovning_List_Dictionary_26_09_16.Classes
 {
     public class Country
     {
-        // Class Country with constructor
+        // Properties for the class Country
         public string Namn { get; set; }
         public string Kod { get; set; }
         public string Huvudstad { get; set; }
 
         // We use this constructor to add object to our class Country
-        public Country(string name, string code, string capitol)
+        public Country(string namn, string kod, string huvudstad)
         {
-            Namn = name;
-            Kod = code;
-            Huvudstad = capitol;
+            Namn = namn;
+            Kod = kod;
+            Huvudstad = huvudstad;
         }
         //public void PrintInfo()
         //{
